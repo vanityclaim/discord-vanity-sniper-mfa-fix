@@ -1,0 +1,12 @@
+{
+  "name": "v-sniper",
+  "version": "1.0.0",
+  "description": "ultra fast sniper",
+  "main": "sniper.js",
+  "scripts": {
+    "start": "node sniper.js"
+  },
+  "dependencies": {
+    "ultra-ws": "latest"
+  }
+}
