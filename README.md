@@ -33,3 +33,9 @@ That's it
 .gg/72
 .gg/39
 .gg/82
+
+## Support
+
+For issues or support, contact me on Discord:
+
+noempirelastsforever
