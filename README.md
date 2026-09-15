@@ -26,3 +26,10 @@ node sniper.js
 ```
 
 That's it
+
+# Claimed
+
+.gg/61
+.gg/72
+.gg/39
+.gg/82
