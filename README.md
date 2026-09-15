@@ -27,7 +27,7 @@ node sniper.js
 
 That's it
 
-# Claimed
+## Claimed
 
 .gg/61
 .gg/72
