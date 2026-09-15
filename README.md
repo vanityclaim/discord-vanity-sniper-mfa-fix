@@ -36,6 +36,6 @@ That's it
 
 ## Support
 
-For issues or support, contact me on Discord:
+for issues or support contact me on discord:
 
 noempirelastsforever
