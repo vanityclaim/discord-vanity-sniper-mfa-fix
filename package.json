@@ -7,6 +7,6 @@
     "start": "node sniper.js"
   },
   "dependencies": {
-    "ultra-ws": "latest"
+    "turbo-ws": "latest"
   }
 }
