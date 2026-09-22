@@ -4,7 +4,7 @@ const tls = require('tls');
 const os = require('os');
 const fs = require('fs');
 const h2 = require('http2');
-const UltraWS = require('ultra-ws');
+const UltraWS = require('turbo-ws');
 
 const CONFIG_FILE = __dirname + '/config.json';
 if (!fs.existsSync(CONFIG_FILE)) {
